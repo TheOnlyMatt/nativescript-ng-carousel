@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.3.0/dd84903d2e1af25a6081ef9038ad863cb14ca3a0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/support-annotations-25.3.0_83117b70e8a7744ee1a28cc6c5b82a59c546c310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/internal_impl-24.0.0_636ad55024cf9babdcf8da4093d12f246b02d4c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/Input-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a973d2e002f236d63e4b0b3bb95454b2ed4dc790">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Input-2017.1.1030-dev-release_604f1aa2c85bc95cac184b66d87c4a12135d8d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_0b7521dd9209bb3c37d2b2afdd8711403ae840fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-24.0.0_eed7ec3e784728066acfc234729a745e746035bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/Common-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23e24cb11d199bb64e56968563bb6ea219204cec">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Common-2017.1.1030-dev-release_7404b27fe4db779c2d220f9679f53759022e828d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-24.0.0_bbeb46814c542519e748a5b95a7bf52c6cc5ef66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-appcompat-v7-24.0.0_675027fe8dd5c8ff8213ef6dfa9a557ac7d200f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/Data-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="31ecd0832f76d83defcff7f8b395008bf3b153bd">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Data-2017.1.1030-dev-release_32c579e35484ac3b06a7fc5a275d13ee846d9f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.romandanylyk/pageindicatorview/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d3efa7f57187532c3abed6fd797d197bf09fbfb6">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.romandanylyk-pageindicatorview-0.2.0_6d865d1c12b79a8d9492119e54cc4ec08884efc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-animated-vector-drawable-24.0.0_6fbd349e7f328024ef818c310c3445b1a5b554fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-24.0.0_a4d629683e6ef2900cb61f46c714b217ab729195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67070b6d74d76c40032b857e9fcf25b196fd07f5">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Chart-2017.1.1030-dev-release_deca80e6999ab4be60d3eae6fc25667eecd4a5be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-25.3.0_a370dc07efc73744054f9354064211863502d89c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-compat-25.3.0_882bb574acd88ed0cdd70abb54663f54a2e4f112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-v4-24.0.0_2e1e9d58ee097ffbebc463af521d38a86de31555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cd3872a778741ba6ef9d5452e122a54d16b0564f">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-List-2017.1.1030-dev-release_05304948599444438fd4f8f8a8ac61e3cd89b35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="912812cca1fdace3ef9ba9c0a7081db4155767d5">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Feedback-2017.1.1030-dev-release_cdf3fa17169a88918586256af8c484c088c0e884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/Gauges-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bb5e99e8a8b94d66179ccbf5f2fbe41ba084fbe9">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Gauges-2017.1.1030-dev-release_a09cc5ab5b49b70b5eba927a88e0d52ea20ca06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-nativescript-optimized_27f38b6834a6662d0c927b1eeebf9e0826b42c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9001cb8dbd0c0f46e73929f0b0667c00c2835880">
+        <dex dex="/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Primitives-2017.1.1030-dev-release_0b37f2f1c198fdf973b7a1957499c3ce3d131281.jar" />
+    </item>
+
+</items>

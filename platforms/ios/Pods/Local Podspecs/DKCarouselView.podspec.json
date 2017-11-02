@@ -1,0 +1,29 @@
+{
+  "name": "DKCarouselView",
+  "version": "2.4.13",
+  "summary": "DKCarouselView is a automatically & circular infinite(or not) scrolling view.The view auto paging/pause can be specified as well. This is a modified version of the original Pod made by zhangao0086.",
+  "homepage": "https://github.com/manijak/DKCarouselView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Manijak": "nedim@fkzeljo.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://github.com/manijak/DKCarouselView.git",
+    "tag": "2.4.13"
+  },
+  "source_files": "DKCarouselView/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true,
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "3.0"
+  }
+}

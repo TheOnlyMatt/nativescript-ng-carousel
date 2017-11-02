@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxxhdpi/logo.png",
+        "source": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxxhdpi/background.png",
+        "source": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxxhdpi/menu.png",
+        "source": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/src/main/res/drawable-xxxhdpi/menu.png"
+    },
+    {
+        "merged": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxxhdpi/icon.png",
+        "source": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/src/main/res/drawable-xxxhdpi/icon.png"
+    }
+]

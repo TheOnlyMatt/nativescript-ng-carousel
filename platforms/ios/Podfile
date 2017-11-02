@@ -1,0 +1,8 @@
+use_frameworks!
+
+target "nativescriptngcarousel" do
+# Begin Podfile - /Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/node_modules/nativescript-carousel/platforms/ios/Podfile 
+ pod 'DKCarouselView', :git => 'https://github.com/manijak/DKCarouselView' 
+ # End Podfile 
+
+end
