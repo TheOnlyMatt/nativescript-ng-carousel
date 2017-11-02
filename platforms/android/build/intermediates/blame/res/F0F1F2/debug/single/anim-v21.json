@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/res/merged/F0F1F2/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/res/merged/F0F1F2/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/res/merged/F0F1F2/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/digeek/Documents/nativescript apps/nativescript-ng-carousel/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

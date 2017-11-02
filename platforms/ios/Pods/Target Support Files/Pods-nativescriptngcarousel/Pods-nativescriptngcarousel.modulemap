@@ -1,0 +1,6 @@
+framework module Pods_nativescriptngcarousel {
+  umbrella header "Pods-nativescriptngcarousel-umbrella.h"
+
+  export *
+  module * { export * }
+}
