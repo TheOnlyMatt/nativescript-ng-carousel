@@ -1,0 +1,21 @@
+PODS:
+  - DKCarouselView (2.4.13)
+
+DEPENDENCIES:
+  - DKCarouselView (from `https://github.com/manijak/DKCarouselView`)
+
+EXTERNAL SOURCES:
+  DKCarouselView:
+    :git: https://github.com/manijak/DKCarouselView
+
+CHECKOUT OPTIONS:
+  DKCarouselView:
+    :commit: 1c0b019a91ebb833aa030c02373434a8e4d3d15d
+    :git: https://github.com/manijak/DKCarouselView
+
+SPEC CHECKSUMS:
+  DKCarouselView: a1ad0047cc8007f889be211f78f23aa79b7c9be5
+
+PODFILE CHECKSUM: 4a887295ffd97650ed0386a37b23f62f94962fad
+
+COCOAPODS: 1.2.1
