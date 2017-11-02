@@ -12,7 +12,7 @@ import * as app from "tns-core-modules/application";
     moduleId: module.id,
     templateUrl: "./home.component.html"
 })
-export class HomeComponent implements OnInit/*, AfterViewInit*/ {
+export class HomeComponent implements OnInit, AfterViewInit {
     /* ***********************************************************
      * Use the @ViewChild decorator to get a reference to the drawer component.
      * It is used in the "onDrawerButtonTap" function below to manipulate the drawer.
@@ -41,7 +41,7 @@ export class HomeComponent implements OnInit/*, AfterViewInit*/ {
     }
 
     // Carousel elements
-/*
+
     @ViewChild('carousel') carousel: ElementRef;
 
     private imageList : any
@@ -53,11 +53,14 @@ export class HomeComponent implements OnInit/*, AfterViewInit*/ {
             "~/images/images.jpeg",
             "~/images/img_fjords.jpg",
         ]
-
-        this.buildCarousel();
     }
 
-    private buildCarousel(): void {
+    public onCarouselLoaded(args){
+
+        this.buildCarousel(args.object);
+    }
+
+    private buildCarousel(carousel): void {
         let count = 0;
 
         for (let photoUrl of this.imageList) {
@@ -72,24 +75,24 @@ export class HomeComponent implements OnInit/*, AfterViewInit*/ {
             const item = new CarouselItem();
             item.addChild(image);
 
-            this.carousel.nativeElement.addChild(item);
+            carousel.addChild(item);
             count++;
 
             if (app.android) {
-                const adapter = this.carousel.nativeElement.android.getAdapter();
+                const adapter = carousel.android.getAdapter();
 
                 if (adapter) {
                     adapter.notifyDataSetChanged();
-                    this.carousel.nativeElement._pageIndicatorView.setCount(count);
+                    carousel._pageIndicatorView.setCount(count);
 
                     if (count === 1) {
-                        this.carousel.nativeElement._pageIndicatorView.setSelection(item.android);
+                        carousel._pageIndicatorView.setSelection(item.android);
                     }
                 }
             }
         }
 
-        this.carousel.nativeElement.refresh();
-    }*/
+        carousel.refresh();
+    }
 
 }
